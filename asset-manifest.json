@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wataugacompany/static/css/main.8a7e0ef7.chunk.css",
+    "main.js": "/wataugacompany/static/js/main.3594356a.chunk.js",
+    "main.js.map": "/wataugacompany/static/js/main.3594356a.chunk.js.map",
+    "runtime~main.js": "/wataugacompany/static/js/runtime~main.d288efa3.js",
+    "runtime~main.js.map": "/wataugacompany/static/js/runtime~main.d288efa3.js.map",
+    "static/js/2.76aff586.chunk.js": "/wataugacompany/static/js/2.76aff586.chunk.js",
+    "static/js/2.76aff586.chunk.js.map": "/wataugacompany/static/js/2.76aff586.chunk.js.map",
+    "index.html": "/wataugacompany/index.html",
+    "precache-manifest.27f663d256a49038ff3319ab601874c8.js": "/wataugacompany/precache-manifest.27f663d256a49038ff3319ab601874c8.js",
+    "service-worker.js": "/wataugacompany/service-worker.js",
+    "static/css/main.8a7e0ef7.chunk.css.map": "/wataugacompany/static/css/main.8a7e0ef7.chunk.css.map"
+  }
+}
