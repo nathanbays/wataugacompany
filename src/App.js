@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <div className="pageHeader">The Watauga Company</div>
         <div className="email">
-          <a 
+          <a
+            title="Email Nathan@TheWataugaCompany.com" 
             className="label" 
             target="_blank" 
             rel="noopener noreferrer" 
