@@ -5,6 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        
+        <img className="riverImage" alt="The Watauga River" src={process.env.PUBLIC_URL + '/watauga-river.jpg'} />
         <div className="pageHeader">The Watauga Company</div>
         <div className="email">
           <a

@@ -45,6 +45,10 @@
   padding-right: 5px;
   text-decoration: none;
 }
+.riverImage {
+  max-width: 760px;
+  padding-bottom: 10px;
+}
 
 @keyframes App-logo-spin {
   from {
@@ -61,5 +65,9 @@
   }
   .App-header {
     min-height: 80vh;
+  }
+  .riverImage {
+    padding-bottom: 10px;
+    width: 100%;
   }
 }
