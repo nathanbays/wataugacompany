@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  color: white;
+  background-color: rgb(0, 48, 40);
+  font-family: 'Baskerville-Light', serif;
 }
 
 .App-logo {
@@ -9,7 +12,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -20,7 +22,28 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: white;
+}
+.headerContainer {
+  width: 100%;
+  text-align: center;
+}
+.pageHeader {
+  font-size: 3em;
+  padding-bottom: 10px;
+}
+.location {
+  font-size: 1.2em;
+  padding: 10px 0px 20px 0px;
+}
+.email {
+  font-size: .9em;
+  padding-bottom: 10px;
+}
+.label {
+  color: #F5F5F5;
+  padding-right: 5px;
+  text-decoration: none;
 }
 
 @keyframes App-logo-spin {
@@ -29,5 +52,14 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 700px) {
+  .App {
+    min-height: 100vh;
+  }
+  .App-header {
+    min-height: 80vh;
   }
 }
